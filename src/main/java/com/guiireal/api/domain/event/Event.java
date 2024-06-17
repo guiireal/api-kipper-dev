@@ -28,8 +28,8 @@ public class Event {
 
     private String description;
 
-    @Column(name = "img_url")
-    private String imgUrl;
+    @Column(name = "image_url")
+    private String imageUrl;
 
     @Column(name = "event_url")
     private String eventUrl;
